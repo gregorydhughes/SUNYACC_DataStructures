@@ -1,0 +1,59 @@
+A for active, I for inactive; O for occupied and U for unoccupied; C for Core, T for track; 
+followed by player ID; number of particles born and the number of particles that escaped
+A U T		A U T		A O T		A U T		A U T		A U T		A U T		
+-1 0 0		-1 0 0		3 0 0		-1 0 0		-1 0 0		-1 0 0		-1 0 0		
+
+A U T		A U C		A U C		A U C		A U C		A U C		A U T		
+-1 0 0		-1 2 2		-1 0 2		-1 0 5		-1 4 8		-1 0 6		-1 0 0		
+
+A U T		A U C		A U C		A U C		A U C		A U C		A O T		
+-1 0 0		-1 0 0		-1 1 0		-1 3 0		-1 1 0		-1 1 2		4 0 0		
+
+A U T		A U C		A U C		A U C		A U C		A U C		A U T		
+-1 0 0		-1 0 0		-1 1 0		-1 1 0		-1 0 0		-1 1 0		-1 0 0		
+
+A O T		A U C		A U C		A U C		A U C		A U C		A U T		
+2 0 0		-1 0 0		-1 2 0		-1 1 0		-1 0 0		-1 3 0		-1 0 0		
+
+A U T		A U C		A U C		A U C		A U C		A U C		A U T		
+-1 0 0		-1 0 0		-1 1 0		-1 1 0		-1 0 0		-1 2 0		-1 0 0		
+
+A U T		A U T		A U T		A U T		A U T		A U T		A U T		
+-1 0 0		-1 0 0		-1 0 0		-1 0 0		-1 0 0		-1 0 0		-1 0 0		
+
+
+------------------------------------------------------------------------------------------------------------------------
+Particle 1 did not travel to a location multiple times.
+Particle 2 did not travel to a location multiple times.
+Particle 3 did not travel to a location multiple times.
+Particle 4 did not travel to a location multiple times.
+Particle 5, traveled to 2x2, 2 times.
+Particle 6 did not travel to a location multiple times.
+Particle 7, traveled to 2x5, 2 times.
+Particle 8, traveled to 2x5, 2 times; 4x5, 2 times.
+Particle 9, traveled to 2x2, 2 times; 4x5, 2 times.
+Particle 10, traveled to 1x4, 2 times; 4x5, 2 times.
+Particle 11, traveled to 1x4, 2 times; 4x5, 2 times.
+Particle 12, traveled to 1x4, 2 times; 4x5, 2 times.
+Particle 13, traveled to 1x4, 3 times; 4x5, 2 times.
+Particle 14, traveled to 2x5, 2 times; 1x4, 3 times; 4x5, 3 times.
+Particle 15, traveled to 1x4, 3 times; 4x5, 3 times.
+Particle 16, traveled to 2x2, 2 times; 4x2, 2 times; 1x4, 4 times; 4x5, 3 times; 3x2, 2 times.
+Particle 17, traveled to 4x2, 2 times; 1x4, 4 times; 4x5, 3 times.
+Particle 18, traveled to 4x2, 2 times; 1x4, 3 times; 4x5, 3 times.
+Particle 19, traveled to 4x2, 2 times; 1x4, 3 times; 4x5, 3 times; 1x1, 2 times.
+Particle 20, traveled to 4x2, 2 times; 1x4, 4 times; 4x5, 3 times; 1x1, 2 times.
+Particle 21, traveled to 5x5, 2 times; 2x5, 2 times; 4x2, 2 times; 1x4, 4 times; 4x5, 4 times; 1x1, 2 times.
+Particle 22, traveled to 5x5, 2 times; 4x2, 2 times; 1x4, 4 times; 4x5, 3 times; 1x1, 2 times; 2x3, 2 times.
+Particle 23, traveled to 5x5, 2 times; 2x5, 2 times; 4x2, 2 times; 1x4, 5 times; 4x5, 3 times; 4x3, 2 times; 1x1, 2 times; 3x3, 2 times; 2x4, 2 times; 2x3, 3 times.
+Particle 24, traveled to 5x5, 2 times; 4x2, 2 times; 1x4, 4 times; 4x5, 3 times; 1x1, 2 times; 2x3, 3 times.
+Particle 25, traveled to 5x5, 2 times; 2x5, 2 times; 4x2, 2 times; 1x4, 4 times; 4x5, 3 times; 1x1, 2 times; 2x3, 3 times.
+------------------------------------------------------------------------------------------------------------------------
+
+
+The winner was  Prof Markus Strohmeister(player 2) with 692 health remaing, living to a ripe age of 14
+
+The runners up are as follows respectively:
+Player 3	 Prof	Harrinald Lowemeister with 620 health remaing, living to a ripe age of 14
+Player 4	 Prof Lukas Mustopheles with 252 health remaing, living to a ripe age of 14
+Player 1	 Prof Marcus Guisem with 0 health remaing, living to a ripe age of 4
